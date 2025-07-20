@@ -221,12 +221,12 @@ getgenv().loaded = true
             
             local ProggyTiny = Register_Font("ProggyTiny", 200, "Normal", {
                 Id = "ProggyTiny.ttf",
-                Font = game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/tahoma_bold.ttf"),
+                Font = game:HttpGet("https://github.com/Traxcancode/gelato/raw/refs/heads/main/fonts/tahoma_bold.ttf"),
             })
 
             local ProggyClean = Register_Font("ProggyClean", 200, "normal", {
                 Id = "ProggyClean.ttf",
-                Font = game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/ProggyClean.ttf")
+                Font = game:HttpGet("https://github.com/Traxcancode/gelato/raw/refs/heads/main/fonts/ProggyClean.ttf")
             })
             
             fonts = {
